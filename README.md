@@ -16,3 +16,6 @@
 - 78% reviews are Positive
 - 26% reviews have a mismatch between star rating and review text
 - Milton Thermosteel Flask is most reviewed product
+## Dataset
+Dataset taken from Kaggle:
+https://www.kaggle.com/datasets/mansithummar67/flipkart-product-review-dataset
